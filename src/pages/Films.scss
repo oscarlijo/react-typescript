@@ -1,0 +1,22 @@
+.card-text {
+  height: 150px;
+  overflow: hidden;
+}
+.force-one-line {
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.custom-badge-2 {
+  position: absolute;
+  left: -2px;
+  top: -2px;
+  padding: 7px 12px;
+}
+.custom-badge {
+  margin-top: 1px;
+}
+.custom-rated {
+  line-height: 32px;
+}
